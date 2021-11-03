@@ -1,8 +1,3 @@
-# import torch
-# import torch.nn as nn
-# from torch.nn import init
-# import functools
-# from torch.autograd import Variable
 import paddle.nn as nn
 import paddle
 class ResidualBlock(nn.Layer):
